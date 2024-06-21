@@ -10,5 +10,5 @@ if alarmAm=="pm":
 while True:
     if alarmHour==datetime.datetime.now().hour and alarmMin==datetime.datetime.now().minute:
         print("ALARM IS ON.... ⏰⏰⏰")
-        playsound("✻H+3+ЯД✻7luCJIo0T6.mp3")
+        playsound("your_music.mp3")
         break
